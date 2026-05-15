@@ -1,0 +1,14 @@
+{
+  "name": "sales-replay-test",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Small reviewable app used to exercise sales replay flows.",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/main.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
