@@ -4,3 +4,4 @@ export {
   createReplayWindows,
   prioritizeReplayWindows,
 } from "./timeline.mjs";
+export { rankReplayWindows, scoreReplayWindow } from "./scoring.mjs";
