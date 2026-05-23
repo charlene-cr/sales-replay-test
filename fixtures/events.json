@@ -1,0 +1,23 @@
+[
+  {
+    "accountId": "acme",
+    "type": "demo_call",
+    "occurredAt": "2026-05-25T16:00:00Z",
+    "actor": "Nina",
+    "summary": "Security stakeholder asked about procurement and pilot timeline."
+  },
+  {
+    "accountId": "acme",
+    "type": "email_reply",
+    "occurredAt": "2026-05-26T16:00:00Z",
+    "actor": "buyer",
+    "summary": "Budget owner requested integration details."
+  },
+  {
+    "accountId": "beta",
+    "type": "crm_note",
+    "occurredAt": "2026-05-24T16:00:00Z",
+    "actor": "Maya",
+    "summary": "Pricing concern may delay rollout."
+  }
+]
