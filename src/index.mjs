@@ -14,3 +14,5 @@ export { ingestCsvEvents, mapRecordToEvent, mergeIngestionResults } from "./inge
 export { PLAYBOOK_CATALOG } from "./playbooks/catalog.mjs";
 export { buildPlaybookContext, evaluatePlaybooks, evaluateRule } from "./playbooks/rules.mjs";
 export { recommendPlaybooks, summarizePlaybookCoverage } from "./playbooks/recommendations.mjs";
+export { forecastAccount, forecastPipeline, summarizeForecasts } from "./forecast/model.mjs";
+export { buildForecastAlerts, buildForecastRollup, segmentForecasts } from "./forecast/rollup.mjs";
