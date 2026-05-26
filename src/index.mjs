@@ -16,3 +16,5 @@ export { buildPlaybookContext, evaluatePlaybooks, evaluateRule } from "./playboo
 export { recommendPlaybooks, summarizePlaybookCoverage } from "./playbooks/recommendations.mjs";
 export { forecastAccount, forecastPipeline, summarizeForecasts } from "./forecast/model.mjs";
 export { buildForecastAlerts, buildForecastRollup, segmentForecasts } from "./forecast/rollup.mjs";
+export { appendAuditEntry, createAuditEntry, redactAuditLog, verifyAuditLog } from "./audit/log.mjs";
+export { auditReplayReport, serializeAuditSummary, summarizeAuditLog } from "./audit/projections.mjs";

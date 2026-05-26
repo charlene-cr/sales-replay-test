@@ -1,0 +1,482 @@
+[
+  {
+    "action": "event_imported",
+    "accountId": "acct-01",
+    "actor": "system",
+    "changes": {
+      "score": 40,
+      "band": "watch",
+      "email": "buyer1@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-02",
+    "actor": "Nina",
+    "changes": {
+      "score": 41,
+      "band": "warm",
+      "email": "buyer2@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-03",
+    "actor": "Maya",
+    "changes": {
+      "score": 42,
+      "band": "hot",
+      "email": "buyer3@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-04",
+    "actor": "system",
+    "changes": {
+      "score": 43,
+      "band": "watch",
+      "email": "buyer4@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-05",
+    "actor": "Nina",
+    "changes": {
+      "score": 44,
+      "band": "warm",
+      "email": "buyer5@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-06",
+    "actor": "Maya",
+    "changes": {
+      "score": 45,
+      "band": "hot",
+      "email": "buyer6@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-07",
+    "actor": "system",
+    "changes": {
+      "score": 46,
+      "band": "watch",
+      "email": "buyer7@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-08",
+    "actor": "Nina",
+    "changes": {
+      "score": 47,
+      "band": "warm",
+      "email": "buyer8@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-09",
+    "actor": "Maya",
+    "changes": {
+      "score": 48,
+      "band": "hot",
+      "email": "buyer9@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-10",
+    "actor": "system",
+    "changes": {
+      "score": 49,
+      "band": "watch",
+      "email": "buyer10@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-11",
+    "actor": "Nina",
+    "changes": {
+      "score": 50,
+      "band": "warm",
+      "email": "buyer11@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-12",
+    "actor": "Maya",
+    "changes": {
+      "score": 51,
+      "band": "hot",
+      "email": "buyer12@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-13",
+    "actor": "system",
+    "changes": {
+      "score": 52,
+      "band": "watch",
+      "email": "buyer13@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-14",
+    "actor": "Nina",
+    "changes": {
+      "score": 53,
+      "band": "warm",
+      "email": "buyer14@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-15",
+    "actor": "Maya",
+    "changes": {
+      "score": 54,
+      "band": "hot",
+      "email": "buyer15@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-16",
+    "actor": "system",
+    "changes": {
+      "score": 55,
+      "band": "watch",
+      "email": "buyer16@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-17",
+    "actor": "Nina",
+    "changes": {
+      "score": 56,
+      "band": "warm",
+      "email": "buyer17@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-18",
+    "actor": "Maya",
+    "changes": {
+      "score": 57,
+      "band": "hot",
+      "email": "buyer18@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-19",
+    "actor": "system",
+    "changes": {
+      "score": 58,
+      "band": "watch",
+      "email": "buyer19@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-20",
+    "actor": "Nina",
+    "changes": {
+      "score": 59,
+      "band": "warm",
+      "email": "buyer20@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-21",
+    "actor": "Maya",
+    "changes": {
+      "score": 60,
+      "band": "hot",
+      "email": "buyer21@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-22",
+    "actor": "system",
+    "changes": {
+      "score": 61,
+      "band": "watch",
+      "email": "buyer22@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-23",
+    "actor": "Nina",
+    "changes": {
+      "score": 62,
+      "band": "warm",
+      "email": "buyer23@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-24",
+    "actor": "Maya",
+    "changes": {
+      "score": 63,
+      "band": "hot",
+      "email": "buyer24@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-25",
+    "actor": "system",
+    "changes": {
+      "score": 64,
+      "band": "watch",
+      "email": "buyer25@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-26",
+    "actor": "Nina",
+    "changes": {
+      "score": 65,
+      "band": "warm",
+      "email": "buyer26@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-27",
+    "actor": "Maya",
+    "changes": {
+      "score": 66,
+      "band": "hot",
+      "email": "buyer27@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-28",
+    "actor": "system",
+    "changes": {
+      "score": 67,
+      "band": "watch",
+      "email": "buyer28@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-29",
+    "actor": "Nina",
+    "changes": {
+      "score": 68,
+      "band": "warm",
+      "email": "buyer29@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-30",
+    "actor": "Maya",
+    "changes": {
+      "score": 69,
+      "band": "hot",
+      "email": "buyer30@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-31",
+    "actor": "system",
+    "changes": {
+      "score": 70,
+      "band": "watch",
+      "email": "buyer31@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-32",
+    "actor": "Nina",
+    "changes": {
+      "score": 71,
+      "band": "warm",
+      "email": "buyer32@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-33",
+    "actor": "Maya",
+    "changes": {
+      "score": 72,
+      "band": "hot",
+      "email": "buyer33@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-34",
+    "actor": "system",
+    "changes": {
+      "score": 73,
+      "band": "watch",
+      "email": "buyer34@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-35",
+    "actor": "Nina",
+    "changes": {
+      "score": 74,
+      "band": "warm",
+      "email": "buyer35@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-36",
+    "actor": "Maya",
+    "changes": {
+      "score": 75,
+      "band": "hot",
+      "email": "buyer36@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-37",
+    "actor": "system",
+    "changes": {
+      "score": 76,
+      "band": "watch",
+      "email": "buyer37@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-38",
+    "actor": "Nina",
+    "changes": {
+      "score": 77,
+      "band": "warm",
+      "email": "buyer38@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-39",
+    "actor": "Maya",
+    "changes": {
+      "score": 78,
+      "band": "hot",
+      "email": "buyer39@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-40",
+    "actor": "system",
+    "changes": {
+      "score": 79,
+      "band": "watch",
+      "email": "buyer40@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-41",
+    "actor": "Nina",
+    "changes": {
+      "score": 80,
+      "band": "warm",
+      "email": "buyer41@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-42",
+    "actor": "Maya",
+    "changes": {
+      "score": 81,
+      "band": "hot",
+      "email": "buyer42@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-43",
+    "actor": "system",
+    "changes": {
+      "score": 82,
+      "band": "watch",
+      "email": "buyer43@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-44",
+    "actor": "Nina",
+    "changes": {
+      "score": 83,
+      "band": "warm",
+      "email": "buyer44@example.com"
+    }
+  },
+  {
+    "action": "event_imported",
+    "accountId": "acct-45",
+    "actor": "Maya",
+    "changes": {
+      "score": 84,
+      "band": "hot",
+      "email": "buyer45@example.com"
+    }
+  },
+  {
+    "action": "window_scored",
+    "accountId": "acct-46",
+    "actor": "system",
+    "changes": {
+      "score": 85,
+      "band": "watch",
+      "email": "buyer46@example.com"
+    }
+  },
+  {
+    "action": "follow_up_planned",
+    "accountId": "acct-47",
+    "actor": "Nina",
+    "changes": {
+      "score": 86,
+      "band": "warm",
+      "email": "buyer47@example.com"
+    }
+  },
+  {
+    "action": "forecast_generated",
+    "accountId": "acct-48",
+    "actor": "Maya",
+    "changes": {
+      "score": 87,
+      "band": "hot",
+      "email": "buyer48@example.com"
+    }
+  }
+]
