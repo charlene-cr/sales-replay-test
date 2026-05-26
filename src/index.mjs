@@ -9,3 +9,5 @@ export { parseTranscript, transcriptToEvents } from "./transcriptParser.mjs";
 export { groupFollowUpsByPriority, planFollowUps } from "./followUpPlanner.mjs";
 export { buildReplayReport, formatReportSummary } from "./report.mjs";
 export { summarizeQualityIssues, validateReplayEvents } from "./dataQuality.mjs";
+export { parseCsv, stringifyCsv } from "./ingestion/csv.mjs";
+export { ingestCsvEvents, mapRecordToEvent, mergeIngestionResults } from "./ingestion/mapper.mjs";
