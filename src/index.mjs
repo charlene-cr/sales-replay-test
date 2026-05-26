@@ -11,3 +11,6 @@ export { buildReplayReport, formatReportSummary } from "./report.mjs";
 export { summarizeQualityIssues, validateReplayEvents } from "./dataQuality.mjs";
 export { parseCsv, stringifyCsv } from "./ingestion/csv.mjs";
 export { ingestCsvEvents, mapRecordToEvent, mergeIngestionResults } from "./ingestion/mapper.mjs";
+export { PLAYBOOK_CATALOG } from "./playbooks/catalog.mjs";
+export { buildPlaybookContext, evaluatePlaybooks, evaluateRule } from "./playbooks/rules.mjs";
+export { recommendPlaybooks, summarizePlaybookCoverage } from "./playbooks/recommendations.mjs";
