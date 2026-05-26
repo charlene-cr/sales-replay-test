@@ -11,8 +11,6 @@ const KNOWN_COLUMNS = new Set([
   "summary",
   "metadata",
   "externalId",
-  "opportunityStage",
-  "amount",
 ]);
 
 export function ingestCsvEvents(text, options = {}) {
