@@ -6,3 +6,4 @@ export {
 } from "./timeline.mjs";
 export { rankReplayWindows, scoreReplayWindow } from "./scoring.mjs";
 export { parseTranscript, transcriptToEvents } from "./transcriptParser.mjs";
+export { groupFollowUpsByPriority, planFollowUps } from "./followUpPlanner.mjs";
