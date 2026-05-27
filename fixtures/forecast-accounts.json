@@ -1,0 +1,427 @@
+[
+  {
+    "accountId": "acct-01",
+    "name": "Replay Account 1",
+    "segment": "enterprise",
+    "stage": "discovery",
+    "amount": 15000,
+    "replayScore": 20,
+    "closeDate": "2026-06-01T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-02",
+    "name": "Replay Account 2",
+    "segment": "mid-market",
+    "stage": "evaluation",
+    "amount": 16750,
+    "replayScore": 27,
+    "closeDate": "2026-06-02T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-03",
+    "name": "Replay Account 3",
+    "segment": "commercial",
+    "stage": "pilot",
+    "amount": 18500,
+    "replayScore": 34,
+    "closeDate": "2026-06-03T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-04",
+    "name": "Replay Account 4",
+    "segment": "enterprise",
+    "stage": "negotiation",
+    "amount": 20250,
+    "replayScore": 41,
+    "closeDate": "2026-06-04T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-05",
+    "name": "Replay Account 5",
+    "segment": "mid-market",
+    "stage": "procurement",
+    "amount": 22000,
+    "replayScore": 48,
+    "closeDate": "2026-06-05T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-06",
+    "name": "Replay Account 6",
+    "segment": "commercial",
+    "stage": "discovery",
+    "amount": 23750,
+    "replayScore": 55,
+    "closeDate": "2026-06-06T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-07",
+    "name": "Replay Account 7",
+    "segment": "enterprise",
+    "stage": "evaluation",
+    "amount": 25500,
+    "replayScore": 62,
+    "closeDate": "2026-06-07T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-08",
+    "name": "Replay Account 8",
+    "segment": "mid-market",
+    "stage": "pilot",
+    "amount": 27250,
+    "replayScore": 69,
+    "closeDate": "2026-06-08T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-09",
+    "name": "Replay Account 9",
+    "segment": "commercial",
+    "stage": "negotiation",
+    "amount": 29000,
+    "replayScore": 76,
+    "closeDate": "2026-06-09T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-10",
+    "name": "Replay Account 10",
+    "segment": "enterprise",
+    "stage": "procurement",
+    "amount": 30750,
+    "replayScore": 83,
+    "closeDate": "2026-06-10T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-11",
+    "name": "Replay Account 11",
+    "segment": "mid-market",
+    "stage": "discovery",
+    "amount": 32500,
+    "replayScore": 90,
+    "closeDate": "2026-06-11T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-12",
+    "name": "Replay Account 12",
+    "segment": "commercial",
+    "stage": "evaluation",
+    "amount": 34250,
+    "replayScore": 97,
+    "closeDate": "2026-06-12T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-13",
+    "name": "Replay Account 13",
+    "segment": "enterprise",
+    "stage": "pilot",
+    "amount": 36000,
+    "replayScore": 24,
+    "closeDate": "2026-06-13T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-14",
+    "name": "Replay Account 14",
+    "segment": "mid-market",
+    "stage": "negotiation",
+    "amount": 37750,
+    "replayScore": 31,
+    "closeDate": "2026-06-14T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-15",
+    "name": "Replay Account 15",
+    "segment": "commercial",
+    "stage": "procurement",
+    "amount": 39500,
+    "replayScore": 38,
+    "closeDate": "2026-06-15T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-16",
+    "name": "Replay Account 16",
+    "segment": "enterprise",
+    "stage": "discovery",
+    "amount": 41250,
+    "replayScore": 45,
+    "closeDate": "2026-06-16T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-17",
+    "name": "Replay Account 17",
+    "segment": "mid-market",
+    "stage": "evaluation",
+    "amount": 43000,
+    "replayScore": 52,
+    "closeDate": "2026-06-17T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-18",
+    "name": "Replay Account 18",
+    "segment": "commercial",
+    "stage": "pilot",
+    "amount": 44750,
+    "replayScore": 59,
+    "closeDate": "2026-06-18T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-19",
+    "name": "Replay Account 19",
+    "segment": "enterprise",
+    "stage": "negotiation",
+    "amount": 46500,
+    "replayScore": 66,
+    "closeDate": "2026-06-19T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-20",
+    "name": "Replay Account 20",
+    "segment": "mid-market",
+    "stage": "procurement",
+    "amount": 48250,
+    "replayScore": 73,
+    "closeDate": "2026-06-20T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-21",
+    "name": "Replay Account 21",
+    "segment": "commercial",
+    "stage": "discovery",
+    "amount": 50000,
+    "replayScore": 80,
+    "closeDate": "2026-06-21T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-22",
+    "name": "Replay Account 22",
+    "segment": "enterprise",
+    "stage": "evaluation",
+    "amount": 51750,
+    "replayScore": 87,
+    "closeDate": "2026-06-22T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-23",
+    "name": "Replay Account 23",
+    "segment": "mid-market",
+    "stage": "pilot",
+    "amount": 53500,
+    "replayScore": 94,
+    "closeDate": "2026-06-23T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-24",
+    "name": "Replay Account 24",
+    "segment": "commercial",
+    "stage": "negotiation",
+    "amount": 55250,
+    "replayScore": 21,
+    "closeDate": "2026-06-24T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-25",
+    "name": "Replay Account 25",
+    "segment": "enterprise",
+    "stage": "procurement",
+    "amount": 57000,
+    "replayScore": 28,
+    "closeDate": "2026-06-01T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-26",
+    "name": "Replay Account 26",
+    "segment": "mid-market",
+    "stage": "discovery",
+    "amount": 58750,
+    "replayScore": 35,
+    "closeDate": "2026-06-02T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-27",
+    "name": "Replay Account 27",
+    "segment": "commercial",
+    "stage": "evaluation",
+    "amount": 60500,
+    "replayScore": 42,
+    "closeDate": "2026-06-03T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-28",
+    "name": "Replay Account 28",
+    "segment": "enterprise",
+    "stage": "pilot",
+    "amount": 62250,
+    "replayScore": 49,
+    "closeDate": "2026-06-04T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-29",
+    "name": "Replay Account 29",
+    "segment": "mid-market",
+    "stage": "negotiation",
+    "amount": 64000,
+    "replayScore": 56,
+    "closeDate": "2026-06-05T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-30",
+    "name": "Replay Account 30",
+    "segment": "commercial",
+    "stage": "procurement",
+    "amount": 65750,
+    "replayScore": 63,
+    "closeDate": "2026-06-06T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-31",
+    "name": "Replay Account 31",
+    "segment": "enterprise",
+    "stage": "discovery",
+    "amount": 67500,
+    "replayScore": 70,
+    "closeDate": "2026-06-07T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  },
+  {
+    "accountId": "acct-32",
+    "name": "Replay Account 32",
+    "segment": "mid-market",
+    "stage": "evaluation",
+    "amount": 69250,
+    "replayScore": 77,
+    "closeDate": "2026-06-08T00:00:00Z",
+    "risks": [
+      "security"
+    ]
+  },
+  {
+    "accountId": "acct-33",
+    "name": "Replay Account 33",
+    "segment": "commercial",
+    "stage": "pilot",
+    "amount": 71000,
+    "replayScore": 84,
+    "closeDate": "2026-06-09T00:00:00Z",
+    "risks": [
+      "legal",
+      "procurement"
+    ]
+  },
+  {
+    "accountId": "acct-34",
+    "name": "Replay Account 34",
+    "segment": "enterprise",
+    "stage": "negotiation",
+    "amount": 72750,
+    "replayScore": 91,
+    "closeDate": "2026-06-10T00:00:00Z",
+    "risks": [
+      "competitor"
+    ]
+  },
+  {
+    "accountId": "acct-35",
+    "name": "Replay Account 35",
+    "segment": "mid-market",
+    "stage": "procurement",
+    "amount": 74500,
+    "replayScore": 98,
+    "closeDate": "2026-06-11T00:00:00Z",
+    "risks": []
+  },
+  {
+    "accountId": "acct-36",
+    "name": "Replay Account 36",
+    "segment": "commercial",
+    "stage": "discovery",
+    "amount": 76250,
+    "replayScore": 25,
+    "closeDate": "2026-06-12T00:00:00Z",
+    "risks": [
+      "pricing"
+    ]
+  }
+]
