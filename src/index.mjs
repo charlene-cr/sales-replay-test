@@ -7,3 +7,4 @@ export {
 export { rankReplayWindows, scoreReplayWindow } from "./scoring.mjs";
 export { parseTranscript, transcriptToEvents } from "./transcriptParser.mjs";
 export { groupFollowUpsByPriority, planFollowUps } from "./followUpPlanner.mjs";
+export { buildReplayReport, formatReportSummary } from "./report.mjs";
