@@ -18,3 +18,5 @@ export { forecastAccount, forecastPipeline, summarizeForecasts } from "./forecas
 export { buildForecastAlerts, buildForecastRollup, segmentForecasts } from "./forecast/rollup.mjs";
 export { appendAuditEntry, createAuditEntry, redactAuditLog, verifyAuditLog } from "./audit/log.mjs";
 export { auditReplayReport, serializeAuditSummary, summarizeAuditLog } from "./audit/projections.mjs";
+export { renderReplayDashboard, renderTotals } from "./dashboard/html.mjs";
+export { buildDashboardViewModel, classifyHealth } from "./dashboard/summary.mjs";

@@ -1,0 +1,539 @@
+{
+  "generatedAt": "2026-05-27T12:00:00.000Z",
+  "lookbackDays": 14,
+  "totals": {
+    "accounts": 30,
+    "events": 90,
+    "followUps": 30
+  },
+  "rankedWindows": [
+    {
+      "accountId": "acct-01",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 95,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-02",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 94,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-03",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 93,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-04",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 92,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-05",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 91,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-06",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 90,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-07",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 89,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-08",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 88,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-09",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 87,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-10",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 86,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-11",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 85,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-12",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 84,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-13",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 83,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-14",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 82,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-15",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 81,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-16",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 80,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-17",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 79,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-18",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 78,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-19",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 77,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-20",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 76,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-21",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 75,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-22",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 74,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-23",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 73,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-24",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 72,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-25",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 71,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-26",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 70,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-27",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 69,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-28",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 68,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-29",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 67,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-30",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 66,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-31",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 65,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-32",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 64,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-33",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 63,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-34",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 62,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-35",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 61,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-36",
+      "eventCount": 2,
+      "scorecard": {
+        "score": 60,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-37",
+      "eventCount": 3,
+      "scorecard": {
+        "score": 59,
+        "band": "hot"
+      }
+    },
+    {
+      "accountId": "acct-38",
+      "eventCount": 4,
+      "scorecard": {
+        "score": 58,
+        "band": "warm"
+      }
+    },
+    {
+      "accountId": "acct-39",
+      "eventCount": 5,
+      "scorecard": {
+        "score": 57,
+        "band": "watch"
+      }
+    },
+    {
+      "accountId": "acct-40",
+      "eventCount": 6,
+      "scorecard": {
+        "score": 56,
+        "band": "hot"
+      }
+    }
+  ],
+  "followUpsByPriority": {
+    "hot": [
+      {
+        "accountId": "acct-01",
+        "subject": "Follow up with account 1",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-04",
+        "subject": "Follow up with account 4",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-07",
+        "subject": "Follow up with account 7",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-10",
+        "subject": "Follow up with account 10",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-13",
+        "subject": "Follow up with account 13",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-16",
+        "subject": "Follow up with account 16",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-19",
+        "subject": "Follow up with account 19",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-22",
+        "subject": "Follow up with account 22",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-25",
+        "subject": "Follow up with account 25",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-28",
+        "subject": "Follow up with account 28",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-31",
+        "subject": "Follow up with account 31",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-34",
+        "subject": "Follow up with account 34",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-37",
+        "subject": "Follow up with account 37",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-40",
+        "subject": "Follow up with account 40",
+        "dueAt": "2026-05-27T16:00:00.000Z"
+      }
+    ],
+    "warm": [
+      {
+        "accountId": "acct-02",
+        "subject": "Follow up with account 2",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-05",
+        "subject": "Follow up with account 5",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-08",
+        "subject": "Follow up with account 8",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-11",
+        "subject": "Follow up with account 11",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-14",
+        "subject": "Follow up with account 14",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-17",
+        "subject": "Follow up with account 17",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-20",
+        "subject": "Follow up with account 20",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-23",
+        "subject": "Follow up with account 23",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-26",
+        "subject": "Follow up with account 26",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-29",
+        "subject": "Follow up with account 29",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-32",
+        "subject": "Follow up with account 32",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-35",
+        "subject": "Follow up with account 35",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-38",
+        "subject": "Follow up with account 38",
+        "dueAt": "2026-05-28T16:00:00.000Z"
+      }
+    ],
+    "watch": [
+      {
+        "accountId": "acct-03",
+        "subject": "Follow up with account 3",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-06",
+        "subject": "Follow up with account 6",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-09",
+        "subject": "Follow up with account 9",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-12",
+        "subject": "Follow up with account 12",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-15",
+        "subject": "Follow up with account 15",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-18",
+        "subject": "Follow up with account 18",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-21",
+        "subject": "Follow up with account 21",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-24",
+        "subject": "Follow up with account 24",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-27",
+        "subject": "Follow up with account 27",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-30",
+        "subject": "Follow up with account 30",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-33",
+        "subject": "Follow up with account 33",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-36",
+        "subject": "Follow up with account 36",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      },
+      {
+        "accountId": "acct-39",
+        "subject": "Follow up with account 39",
+        "dueAt": "2026-05-29T16:00:00.000Z"
+      }
+    ]
+  }
+}
